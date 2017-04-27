@@ -1,0 +1,20 @@
+             ___                                         __                   
+            /   |  ________  ____  ____  ____ ___  ___  / /____  _____        
+           / /| | / ___/ _ \/ __ \/ __ \/ __ '__ \/ _ \/ __/ _ \/ ___/        
+          / ___ |/ /  /  __/ /_/ / /_/ / / / / / /  __/ /_/  __/ /            
+         /_/  |_/_/   \___/\__,_/\____/_/ /_/ /_/\___/\__/\___/_/             
+                                                                      {V1.8f}   
+               This program finds the Area of different Shapes                
+
+                     Type   "list"  for Shape Codes or Names                  
+                     Type   "help"  for further information                   
+                     Type "options" for further functions                     
+
+[Input]: back
+
+ERROR[1]: "back" does not run in [Input] mode!
+
+
+[Input]: quit
+
+ERROR[2]: "quit" is not a valid command!
