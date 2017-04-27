@@ -32,6 +32,10 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\LICENSE" />
+    <None Include="..\README.md" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{27D5A881-0A39-4724-90AE-7018FAAD5E17}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
